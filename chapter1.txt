@@ -1,1 +1,9 @@
 hnaif hana 
+
+git init
+git add (file)(add .)
+git commit (file)
+
+git log
+git status
+git help
